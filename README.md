@@ -1,1 +1,2 @@
-# Dem0
+# Demo
+About the odin project
